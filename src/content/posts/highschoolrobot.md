@@ -11,21 +11,21 @@ comments: true
 
 ## DAY 1
 
-<div style="display: flex; justify-content: center;">
-    <img src="/img/day1_1.jpg" alt="day1_1" style="height: 300px; margin-right: 20px;">
-    <img src="/img/day1_2.jpg" alt="day1_2" style="height: 300px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="/img/day1_1.jpg" alt="day1_1" style="height: 300px; width: auto; object-fit: cover;">
+    <img src="/img/day1_2.jpg" alt="day1_2" style="height: 300px; width: auto; object-fit: cover;">
 </div>
 
 ## DAY 2
 
-<div style="display: flex; justify-content: center;">
-    <img src="/img/day2_1.jpg" alt="day2_1" style="height: 300px; margin-right: 20px;">
-    <img src="/img/day2_2.jpg" alt="day2_2" style="height: 300px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="/img/day2_1.jpg" alt="day2_1" style="height: 300px; width: auto; object-fit: cover;">
+    <img src="/img/day2_2.jpg" alt="day2_2" style="height: 300px; width: auto; object-fit: cover;">
 </div>
 
 ## DAY 3
 
-<div style="display: flex; justify-content: center;">
-    <img src="/img/day3_1.jpg" alt="day3_1" style="height: 300px; margin-right: 20px;">
-    <img src="/img/day3_2.jpg" alt="day3_2" style="height: 300px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="/img/day3_1.jpg" alt="day3_1" style="height: 300px; width: auto; object-fit: cover;">
+    <img src="/img/day3_2.jpg" alt="day3_2" style="height: 300px; width: auto; object-fit: cover;">
 </div>
