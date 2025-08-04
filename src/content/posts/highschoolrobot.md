@@ -1,5 +1,5 @@
 ---
-title: 【竞赛#2】冲刺吧！高校机器人！
+title: 【竞赛#2】高校机器人
 date: 2025-05-27
 summary: 让队友带飞的一集
 category: 比赛
@@ -29,3 +29,8 @@ comments: true
     <img src="/img/day3_1.jpg" alt="day3_1" style="height: 300px; width: auto; max-width: 100%; object-fit: cover;">
     <img src="/img/day3_2.jpg" alt="day3_2" style="height: 300px; width: auto; max-width: 100%; object-fit: cover;">
 </div>
+
+## Continuing...
+
+新的照片先不传了
+后续更新估计就是国赛比完了
